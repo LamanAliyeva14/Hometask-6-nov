@@ -1,0 +1,15 @@
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/bin/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/bin/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.deps.json
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/bin/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.runtimeconfig.json
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/bin/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.dll
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/bin/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.pdb
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.AssemblyInfo.cs
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.dll
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/refint/Enum-Struct-Nullable-Indexer-Exception.dll
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.pdb
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/Enum-Struct-Nullable-Indexer-Exception.genruntimeconfig.cache
+/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/obj/Debug/net6.0/ref/Enum-Struct-Nullable-Indexer-Exception.dll

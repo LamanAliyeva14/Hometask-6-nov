@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmWZQO5iqNyZ5p+822l41YgLqRm5ict08zMMgLTdi/BQPNP0txt5kS71NL8MGfSGMORbuoMBXv3xtaNeDNMEhQ==",
+  "success": true,
+  "projectFilePath": "/Users/limaaliyeva/Desktop/pb202/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception/Enum-Struct-Nullable-Indexer-Exception.csproj",
+  "expectedPackageFiles": [
+    "/Users/limaaliyeva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

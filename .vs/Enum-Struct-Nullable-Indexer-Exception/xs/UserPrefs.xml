@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DB9756D1-26BB-4B2D-8884-50E78D5328DB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enum-Struct-Nullable-Indexer-Exception/Exceptions/ProductCountIsZeroException.cs">
+    <Files>
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Program.cs" Line="13" Column="52" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Person.cs" Line="1" Column="1" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Enums.cs" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Product.cs" Line="26" Column="18" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Book.cs" Line="18" Column="10" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Exceptions/CapacityLimitException.cs" Line="11" Column="32" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Exceptions/NotFoundException.cs" Line="16" Column="17" />
+      <File FileName="Enum-Struct-Nullable-Indexer-Exception/Exceptions/ProductCountIsZeroException.cs" Line="6" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Enum-Struct-Nullable-Indexer-Exception" expanded="True">
+            <Node name="Enum-Struct-Nullable-Indexer-Exception">
+              <Node name="Exceptions">
+                <Node name="ProductCountIsZeroException.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Enum-Struct-Nullable-Indexer-Exception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
